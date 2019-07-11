@@ -1,0 +1,17 @@
+Java Control Statements:
+
+Java Supports three types of Statements:
+1) Selection Statements:
+  a) if statement
+  b) if - else statement
+  c) switch statement
+
+2) Control Statements:
+  a) while statement
+  b) do - while statement
+  c) for statement
+
+3) Jump Statements:
+  a) break statement
+  b) continue statement
+  c) return statement 

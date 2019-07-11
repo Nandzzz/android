@@ -1,0 +1,7 @@
+Java Operators:
+
+1) Java supports four category of operators:
+ a) Arithmetic Operators
+ b) Relational Operators
+ c) Logical Operators
+ d) Bitwise Operators

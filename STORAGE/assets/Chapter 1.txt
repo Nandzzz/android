@@ -1,0 +1,5 @@
+Java Introduction:
+
+1) Java Language was developed by James Gosling.
+2) Java is Simple and Secured Language
+3) Java is Platform Independent Language
